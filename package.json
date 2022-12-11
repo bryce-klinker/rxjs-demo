@@ -10,7 +10,7 @@
     "test": "karma start"
   },
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.17.3",
     "rxjs": "6.5.4",
     "socket.io": "2.3.0"
   },
